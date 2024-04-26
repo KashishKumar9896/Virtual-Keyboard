@@ -1,5 +1,6 @@
 
 let keys = document.querySelectorAll('.keys');
+let spaceKey = document.querySelector('.space_key');
 
 
 
