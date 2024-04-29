@@ -1,6 +1,9 @@
 
 let keys = document.querySelectorAll('.keys');
 let spaceKey = document.querySelector('.space_key');
+let shift_left = document.querySelector('.shift_left');
+let shift_right = document.querySelector('.shift_right');
+let caps_lock_key = document.querySelector('.caps_lock_key');
 
 
 
