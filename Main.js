@@ -4,6 +4,9 @@ let spaceKey = document.querySelector('.space_key');
 let shift_left = document.querySelector('.shift_left');
 let shift_right = document.querySelector('.shift_right');
 let caps_lock_key = document.querySelector('.caps_lock_key');
+let toggle_circle = document.querySelector('.toggle_circle');
+let night_mode = document.querySelector('.night_mode');
+let body = document.querySelector('body');
 
 
 
